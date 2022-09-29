@@ -1,21 +1,33 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Software Restoran",
+  "url": "https://softwarerestoran.pages.dev",
+  "gst": "WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc",
+  "language": "id",
+  "locale": "id_ID",
+  "video": "https://www.youtube.com/watch?v=gGZcHO32mh4",
+  "image": "https://programrestoran.web.app/img/softwarerestoran.webp",
+  "icon": "https://www.11ty.dev/img/favicon.png",
+  "tweet": "@hockeycomp",
+  "robots": "index, follow",
+  "description": "Aplikasi restoran,software program restoran , dengan mesin kasir restoran lengkap untuk bisnis usaha resto cafe rumah makan.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Aplikasi restoran,software program restoran , dengan mesin kasir restoran lengkap untuk bisnis usaha resto cafe rumah makan.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://softwarerestoran.pages.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://softwarerestoran.pages.dev/feed/feed.json"
   },
-  "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+  "contact": {
+    "info": "Hubungi kami untuk informasi dan pemesanan mengenai software restoran lengkap waiters kitchen admin dengan website ini. ",
+    "was": "Whatsapp",
+    "call": "Call Us",
+    "sent": "Sent Email",
+    "wa": "https://wa.me/6285646104747",
+    "phone": "tel:+62895339403223",
+    "email": "mailto:axcora@gmail.com",
+    "url": "https://softwarerestoran.pages.dev/"
   }
 }
