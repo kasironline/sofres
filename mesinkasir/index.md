@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/page.njk
 permalink: /mesinkasir/
 title: Mesin Kasir Restoran
 description: Waiters tablet order - kithcen print & display - dan mesin kasir untuk restoran cafe rumah makan bisnis kuliner
@@ -7,6 +7,16 @@ image: https://firebasestorage.googleapis.com/v0/b/dexopos.appspot.com/o/mesinka
 eleventyNavigation:
   key: POS
   order: 2
+tags:
+ - mesin kasir
+ - mesin kasir restoran
+ - mesin kasir cafe
+ - mesin kasir rumah makan
+ - mesin kasir online
+ - restoran
+ - rumah makan
+ - cafe
+ - kuliner
 ---
 
 ### [{{content.dark}}]({{page.url}})
@@ -29,9 +39,9 @@ eleventyNavigation:
 
 ### [{{content.posi}}]({{page.url}})
 
-{% include "layouts/video/online.njk" %}
+{% include "layouts/video/unboxing.njk" %}
 {{content.text4}}
 
-{{content.tex5}}
+{{content.text5}}
 
 {% include "layouts/widget/download.njk" %}
