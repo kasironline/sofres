@@ -10,6 +10,28 @@ eleventyNavigation:
 ---
 
 ### [{{content.dark}}]({{page.url}})
+
 {{content.subtitle}}
+
 ### [{{content.subdescription}}]({{page.url}})
+
 {{content.intro}}
+
+### [{{content.fitur}}]({{page.url}})
+
+{% include "layouts/video/offline.njk" %}
+{{content.text2}}
+
+### [{{content.web}}]({{page.url}})
+
+{% include "layouts/video/online.njk" %}
+{{content.text3}}
+
+### [{{content.posi}}]({{page.url}})
+
+{% include "layouts/video/online.njk" %}
+{{content.text4}}
+
+{{content.tex5}}
+
+{% include "layouts/widget/download.njk" %}
