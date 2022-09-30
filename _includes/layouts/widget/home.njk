@@ -1,0 +1,4 @@
+<h1><a href="{{page.url}}" title="{{ metadata.title }}">{{ metadata.title }}</a></h1>
+<h2>{{metadata.description}}</h2>
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

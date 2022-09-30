@@ -4,8 +4,4 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-<h1><a href="{{page.url}}">{{ metadata.title }}</a></h1>
-<h2>{{metadata.description}}</h2>
-
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+{% include "layouts/widget/home.njk" %}
