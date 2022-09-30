@@ -4,6 +4,8 @@ description: Tutup kasir cash close untuk cek dan melihat peforma laporan income
 date: 2022-07-22
 video: X-AR1m899mU
 tags:
+  - tutup kasir
+  - close cash
   - aplikasi restoran
   - software restoran
   - program restoran

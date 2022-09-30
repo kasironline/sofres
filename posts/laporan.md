@@ -4,6 +4,14 @@ description: Rangkuman laporan detail, laporan stok, laporan pembelian, laporan 
 date: 2022-07-21
 video: cfRyC75SYms
 tags:
+  - laporan
+  - laporan restoran
+  - laporan pembelian
+  - laporan stok
+  - laporan penjualan
+  - laporan detail
+  - laporan laba rugi
+  - laporan omset
   - aplikasi restoran
   - software restoran
   - program restoran

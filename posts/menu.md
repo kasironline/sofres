@@ -4,6 +4,14 @@ description: Cara memasukan menu makanan minuman dan produk maupun paket menu re
 date: 2022-07-25
 video: BKwjqFF8Qbs
 tags:
+  - menu restoran
+  - menu cafe
+  - menu rumah makan
+  - menu makanan
+  - menu minuman
+  - makanan
+  - minuman
+  - produk
   - aplikasi restoran
   - software restoran
   - program restoran

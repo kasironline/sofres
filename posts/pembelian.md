@@ -4,6 +4,12 @@ description: Bagaimana melakukan transaksi pembelian produk persediaan dan baran
 date: 2022-07-24
 video: SM4Ag5Fomn0
 tags:
+  - transaksi
+  - transaksi restoran
+  - transaksi cafe
+  - transaksi makan
+  - pembelian
+  - transaksi pembelian
   - aplikasi restoran
   - software restoran
   - program restoran

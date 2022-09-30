@@ -4,6 +4,11 @@ description: Membuat dan menyimpan data user pengguna, member customer pelanggan
 date: 2022-07-26
 video: b7nSF35rTPk
 tags:
+  - database
+  - user pengguna
+  - pelanggan
+  - customer member
+  - supplier
   - aplikasi restoran
   - software restoran
   - program restoran
