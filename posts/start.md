@@ -17,4 +17,4 @@ tags:
 layout: layouts/post.njk
 ---
 
-{{fitur.start}}
+{{ fitur.demo }}
